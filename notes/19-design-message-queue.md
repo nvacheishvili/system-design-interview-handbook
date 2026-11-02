@@ -1,4 +1,4 @@
-# Chapter 19: Design Message Queue
+# [Chapter 19: Design Message Queue](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _Midnight, a new edition of Dune, and what's really inside the box we've been calling a mailbox._
 

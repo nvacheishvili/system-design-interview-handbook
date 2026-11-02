@@ -1,4 +1,4 @@
-# Chapter 5: Consistent Hashing
+# [Chapter 5: Consistent Hashing](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _A hard one, taken one small step at a time. All you need to picture it is a clock._
 

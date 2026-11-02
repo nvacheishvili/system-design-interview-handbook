@@ -1,4 +1,4 @@
-# Chapter 4: Design Rate Limiter
+# [Chapter 4: Design Rate Limiter](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _Your first full design: the same four steps, from the first question to what happens when the limiter itself breaks._
 

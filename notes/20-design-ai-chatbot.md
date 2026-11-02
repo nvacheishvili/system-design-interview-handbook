@@ -1,4 +1,4 @@
-# Chapter 20: Design AI Chatbot
+# [Chapter 20: Design AI Chatbot](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _One honest answer for Anna, with no spoilers, and the one truly new idea that lets a lot of people share a chip._
 

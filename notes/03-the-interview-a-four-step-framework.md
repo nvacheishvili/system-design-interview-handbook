@@ -1,4 +1,4 @@
-# Chapter 3: The Interview: A Four-Step Framework
+# [Chapter 3: The Interview: A Four-Step Framework](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _Every interview is different, but there are ground rules: understand the problem, draw the big picture, go deep, and wrap up._
 

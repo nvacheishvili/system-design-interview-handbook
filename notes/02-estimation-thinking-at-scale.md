@@ -1,4 +1,4 @@
-# Chapter 2: Estimation: Thinking at Scale
+# [Chapter 2: Estimation: Thinking at Scale](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _Just multiplying and dividing with rounded numbers, so you can see what a design needs before you draw it._
 

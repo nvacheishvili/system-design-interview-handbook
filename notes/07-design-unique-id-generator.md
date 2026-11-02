@@ -1,4 +1,4 @@
-# Chapter 7: Design Unique ID Generator
+# [Chapter 7: Design Unique ID Generator](https://www.udemy.com/course/system-design-zero-to-hero/?referralCode=183D59A1EBE9E71D26FF)
 
 _It sounds like the smallest problem in this course: one order, one number that nobody else has._
 
